@@ -1,23 +1,22 @@
-
-user [
+user[
   {
-    "name": "Marcos",
-    "sexo": "masculino"
-  },
-  {
-    "name": "Julia",
+    "name": "Camila",
     "sexo": "feminino"
   },
   {
-    "name": "Rafael",
+    "name": "Lucas",
     "sexo": "masculino"
   },
   {
-    "name": "Bianca",
+    "name": "Fernanda",
     "sexo": "feminino"
   },
   {
-    "name": "Thiago",
+    "name": "Gustavo",
     "sexo": "masculino"
+  },
+  {
+    "name": "Patrícia",
+    "sexo": "feminino"
   }
 ]
