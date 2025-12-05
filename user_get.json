@@ -1,0 +1,23 @@
+
+user [
+  {
+    "name": "Marcos",
+    "sexo": "masculino"
+  },
+  {
+    "name": "Julia",
+    "sexo": "feminino"
+  },
+  {
+    "name": "Rafael",
+    "sexo": "masculino"
+  },
+  {
+    "name": "Bianca",
+    "sexo": "feminino"
+  },
+  {
+    "name": "Thiago",
+    "sexo": "masculino"
+  }
+]
