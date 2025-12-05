@@ -1,22 +1,24 @@
-user[
-  {
-    "name": "Camila",
-    "sexo": "feminino"
-  },
-  {
-    "name": "Lucas",
-    "sexo": "masculino"
-  },
-  {
-    "name": "Fernanda",
-    "sexo": "feminino"
-  },
-  {
-    "name": "Gustavo",
-    "sexo": "masculino"
-  },
-  {
-    "name": "Patrícia",
-    "sexo": "feminino"
-  }
-]
+{
+  "user": [
+    {
+      "name": "Marcos",
+      "sexo": "masculino"
+    },
+    {
+      "name": "Julia",
+      "sexo": "feminino"
+    },
+    {
+      "name": "Rafael",
+      "sexo": "masculino"
+    },
+    {
+      "name": "Bianca",
+      "sexo": "feminino"
+    },
+    {
+      "name": "Thiago",
+      "sexo": "masculino"
+    }
+  ]
+}
